@@ -1,0 +1,5 @@
+Terminal Path : PS C:\Users\Chaitali\Desktop\Automation\BBC Automation\TestScript> python assessment.py
+Folder Name: TestScript
+File Name: assessment.py
+
+Note: to check negative scenario, uncomment ‘invalid_login()’ function.
